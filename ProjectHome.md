@@ -1,0 +1,1 @@
+This project is aimed to convert Turkish text to latex format.
